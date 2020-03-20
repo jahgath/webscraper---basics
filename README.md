@@ -1,4 +1,5 @@
 # webscraper---basics
 just trying web scraping using beautiful soup 
 
-mypython/bin/activate 
+To activate the env:
+mypython/bin/activate
